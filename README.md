@@ -1,4 +1,4 @@
 # NLP-Projects-
 
 @
-![Uploading Ekran Resmi 2024-10-25 14.25.53.png…]()
+<img width="515" alt="Ekran Resmi 2024-10-25 14 25 53" src="https://github.com/user-attachments/assets/b499d4b0-e9c6-4bfd-8b60-683c814cb4d8">
